@@ -2,7 +2,7 @@ Package: com.powen.ZeroTwo.respring
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: powen <powen0966091716@gmail.com>
-Depends: mobilesubstrate
+Depends: com.spark.snowboard.respringextension
 Filename: ./debs/com.powen.ZeroTwo.respring_1.2_iphoneos-arm
 Size: 12,214,768
 MD5sum: 8d2a443e366f33f7390d599b8bc785f1
@@ -17,7 +17,7 @@ Package: com.powen.ZeroTwo.theme
 Version: 1.0.4.2
 Architecture: iphoneos-arm
 Maintainer: powen <powen0966091716@gmail.com>
-Depends: mobilesubstrate
+Depends: com.spark.snowboard.respringextension
 Filename: ./debs/com.powen.ZeroTwo.theme_1.0.4.2_iphoneos-arm
 Size: 2,863,620
 MD5sum: 62ece282565192532da2cabf1e33298c
