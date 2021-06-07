@@ -1,4 +1,4 @@
-Package: ccom.powen.ZeroTwo.respring 
+Package: com.powen.ZeroTwo.respring 
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: powen <powen0966091716@gmail.com>
@@ -11,5 +11,20 @@ SHA256: cd5416262cc7df64e401a7144a818e57329e5334f18c1e57397f71f2ca58f048
 Section: Themes
 Description: Zero two respring animation
 Author: powen <powen0966091716@gmail.com> t0mi
+Name: ZeroTwo-respring
+
+Package: com.powen.ZeroTwo.theme  
+Version: 1.0.4.2
+Architecture: iphoneos-arm
+Maintainer: powen <powen0966091716@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.powen.ZeroTwo.theme_1.0.4.2_iphoneos-arm
+Size: 2,863,620
+MD5sum: 62ece282565192532da2cabf1e33298c
+SHA1: 66bd4a7484f94ff1442f88216c90c9ec1eb99388
+SHA256: f663c963cae97c24f4011abcc7b76acd8e39263930aba6ca45c34a40714738be
+Section: Themes
+Description: Anime character "zero two "in "darling in the franxx "
+Author: powen <powen0966091716@gmail.com> 
 Name: ZeroTwo-respring
 
